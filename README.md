@@ -14,15 +14,3 @@ Here are some of the many training projects using React, Redux, Redux-Thunk, Cus
 [greenApi chat](https://github.com/Magerk3/green-api-chat) | 
 [shoe store](https://github.com/Magerk3/ra16-diploma), all the functions of which can be used.  The server of the project is deployed on the cloud service https://render.com/. Here you can view project [description](https://github.com/Magerk3/ra16-diploma/blob/main/README.md) and here you can visit and test |
 [project site](https://magerk3.github.io/ra16-diploma) 
-[CRUD](https://github.com/Magerk3/crud) |
-[World Clocks](https://github.com/Magerk3/watches) |
-[Authentication](https://github.com/Magerk3/authentication-neto) |
-[List and Details](https://github.com/Magerk3/use-effect-neto) |
-[useJsonFetch](https://github.com/Magerk3/use-json-fetch-neto) |
-[nike-layouts](https://github.com/Magerk3/nike-layouts) |
-[portfolio with filters](https://github.com/Magerk3/portfolio-example) |
-[Accounting for training](https://github.com/Magerk3/steps) |
-[HEX to RGB color converter](https://github.com/Magerk3/hex2rgb) |
-[Formatting the publication date](https://github.com/Magerk3/time-HOC) |
-[Block highlighting](https://github.com/Magerk3/highlight-HOC) |
-[Data aggregation for tables with table components wrapped in a HOC](https://github.com/Magerk3/aggregation)
