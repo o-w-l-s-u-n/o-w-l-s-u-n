@@ -12,5 +12,4 @@ Hello!
 
 Here are some of the many training projects using React, Redux, Redux-Thunk, Custom components, HOCs, React Router, etc.: 
 [greenApi chat](https://github.com/Magerk3/green-api-chat) | 
-[shoe store](https://github.com/Magerk3/ra16-diploma), all the functions of which can be used.  The server of the project is deployed on the cloud service https://render.com/. Here you can view project [description](https://github.com/Magerk3/ra16-diploma/blob/main/README.md) and here you can visit and test |
-[project site](https://magerk3.github.io/ra16-diploma) 
+[shoe store](https://github.com/Magerk3/ra16-diploma), all the functions of which can be used.
