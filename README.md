@@ -1,15 +1,9 @@
-Hello!
+Greetings,
 
-- 🔭  I’m currently looking for a new job in the field of frontend web development. I have experience in building web applications using React and Redux Toolkit, Redux-Thunk.
-- 🌱 I’m currently also learning Golang and information security.
-- 👯 I’m looking to collaborate on projects where I can contribute to the frontend development using React/Redux or other modern frontend technologies. I am open to working on both personal projects and open-source projects.
-- 🤔 I’m looking for help with finding a high-quality, interesting job that challenges me and allows me to grow my skills. If you know of any opportunities or have any advice, please feel free to reach out!
-- 💬 Ask me about my previous work experience, my favorite programming languages, or any questions you have about web development or web security.
-- 📫 You can reach me through my email at magerk38@gmail.com or connect with me on [Telegram](https://t.me/owlsun)
+I am currently seeking new opportunities in frontend/fullstack web development, with a focus on building web applications utilizing React. In addition to my current skill set, I am expanding my knowledge by learning Golang and information security and blockchain development.
 
+I am in search of a high-quality, engaging role that will challenge me and facilitate the growth of my skills. If you are aware of any such opportunities or have any advice, I would appreciate your input.
 
+Feel free to inquire about my previous work experience, my preferred programming languages, or any questions you may have about development or security.
 
-
-Here are some of the many training projects using React, Redux, Redux-Thunk, Custom components, HOCs, React Router, etc.: 
-[greenApi chat](https://github.com/Magerk3/green-api-chat) | 
-[shoe store](https://github.com/Magerk3/ra16-diploma), all the functions of which can be used.
+You can contact me via email at magerk38@gmail.com or connect with me on ![https://t.me/owlsun](Telegram).
