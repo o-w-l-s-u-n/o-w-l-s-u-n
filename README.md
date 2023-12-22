@@ -6,4 +6,4 @@ I am in search of a high-quality, engaging role that will challenge me and facil
 
 Feel free to inquire about my previous work experience, my preferred programming languages, or any questions you may have about development or security.
 
-You can contact me via email at magerk38@gmail.com or connect with me on ![https://t.me/owlsun](Telegram).
+You can contact me via email at magerk38@gmail.com or connect with me on ![Telegram](https://t.me/owlsun).
