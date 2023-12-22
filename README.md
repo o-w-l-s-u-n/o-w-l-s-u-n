@@ -1,6 +1,6 @@
 Greetings,
 
-I am currently seeking new opportunities in frontend/fullstack web development, with a focus on building web applications utilizing React. In addition to my current skill set, I am expanding my knowledge by learning Golang and information security and blockchain development.
+I am currently seeking new opportunities in frontend/fullstack web development, with a focus on building web applications utilizing React. In addition to my current skill set, I am expanding my knowledge by learning Golang, information security and blockchain development.
 
 I am in search of a high-quality, engaging role that will challenge me and facilitate the growth of my skills. If you are aware of any such opportunities or have any advice, I would appreciate your input.
 
