@@ -4,6 +4,6 @@ I am currently seeking new opportunities in frontend/fullstack web development, 
 
 I am in search of a high-quality, engaging role that will challenge me and facilitate the growth of my skills. If you are aware of any such opportunities or have any advice, I would appreciate your input.
 
-Feel free to inquire about my previous work experience, my preferred programming languages, or any questions you may have about development or security.
+Feel free to inquire about my previous work experience, my preferred programming languages, or any questions you may have.
 
 You can contact me via email at magerk38@gmail.com or connect with me on [Telegram](https://t.me/owlsun).
